@@ -14,7 +14,7 @@
 * 
 * The time class represents a moment of time. 
 */ 
-
+//this is a cpp file
 #include <iostream>
 using namespace std;
 
@@ -48,6 +48,7 @@ int main() {
     }
 
     unsigned long long result = factorial(number);
+    //output
     cout << "Factorial of " << number << " is: " << result << endl;
 
     return 0;
